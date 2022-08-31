@@ -1,3 +1,5 @@
 LDEXTSW1
 
 conf t
+
+router bgp
